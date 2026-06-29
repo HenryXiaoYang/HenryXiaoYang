@@ -4,3 +4,6 @@
 <a href="https://github.com/HenryXiaoYang">
     <img align="center" src="https://henry-github-readme-stats.vercel.app/api/top-langs/?username=HenryXiaoYang&layout=donut&hide_border=true&theme=transparent" />
 </a>
+<a href="https://github.com/HenryXiaoYang">
+    <img align="center" src="https://githubroast.dev/api/card/HenryXiaoYang" />
+</a>
